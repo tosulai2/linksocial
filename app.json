@@ -8,11 +8,14 @@
     "platforms": ["ios", "android"],
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/LinkSocialIcon1.png",
+    //load screen app icon
     "splash": {
       "image": "./assets/images/splash.png",
+      //load screen background image
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
+      //load screen backgroundColor
     },
     "updates": {
       "fallbackToCacheTimeout": 0

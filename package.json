@@ -1,5 +1,5 @@
 {
-  "name": "my-new-project",
+  "name": "linksocial-master",
   "main": "node_modules/expo/AppEntry.js",
   "private": true,
   "scripts": {
@@ -22,5 +22,20 @@
   "devDependencies": {
     "babel-preset-expo": "^5.0.0",
     "jest-expo": "^31.0.0"
-  }
+  },
+  "description": "links",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tosulai2/linksocial.git"
+  },
+  "keywords": [
+    "link"
+  ],
+  "author": "Taofik Sulaiman",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/tosulai2/linksocial/issues"
+  },
+  "homepage": "https://github.com/tosulai2/linksocial#readme"
 }

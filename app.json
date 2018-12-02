@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "My New Project",
-    "description": "A very interesting project.",
-    "slug": "my-new-project",
+    "name": "LinkSocial Project",
+    "description": "An app that changes how we connect on social media.",
+    "slug": "linksocial",
     "privacy": "public",
     "sdkVersion": "31.0.0",
     "platforms": ["ios", "android"],
@@ -11,9 +11,9 @@
     "icon": "./assets/images/LinkSocialIcon1.png",
     //load screen app icon
     "splash": {
-      "image": "./assets/images/splash.png",
+      "image": "./assets/images/LinkSocialIcon1.png",
       //load screen background image
-      "resizeMode": "contain",
+      "resizeMode": "cover",
       "backgroundColor": "#ffffff"
       //load screen backgroundColor
     },
